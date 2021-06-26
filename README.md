@@ -40,7 +40,7 @@ GIF created with [Kap](https://getkap.co/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I struggled with the most with the details user story, especially with aligning things correctly in the XML file. This really helped me refine my understanding of the relationship between the design palette and attributes and how it is represented in the XML code. I also struggled at first with using the Glide library because of the syntax was new to me. 
 
 ## Open-source libraries used
 
